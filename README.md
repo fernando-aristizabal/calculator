@@ -1,1 +1,2 @@
-g++ -std=c++11 calculator.cpp -o calculator2
+# calculator
+Command-line calculator with variable assignments and trig functions
