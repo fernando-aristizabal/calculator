@@ -1,4 +1,4 @@
-# calculator
+# Scientific Calculator
 Command-line calculator with variable assignments and trig functions
 
 Uses shunting yard algorithm to convert expressions to reverse polish notation for order of operations
