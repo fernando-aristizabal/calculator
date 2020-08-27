@@ -1,0 +1,65 @@
+let x = 2
+x
+2
+let count = 0
+count
+0
+let BigValue = 2^2^(2+2^(2+2*2))
+BigValue
+inf
+let count = count + 1
+count
+1
+let AveryVeryLongVariableNameIsAlsoPossible = log( BigValue * sin(1.4) )
+AveryVeryLongVariableNameIsAlsoPossible
+inf
+BigVALUE
+Undeclared-Variable
+count*10000
+10000
+Pi*e^x
+23.2093
+log(-100*sin(5)*cos(5))
+3.30325
+let p = (((5*100/sin((6.392832*21/2.221)))))
+p
+-729.589
+p*2/e^log(5)+sin(5.229475/4.22111)
+-290.939
+let p = p^2*.0001/.009
+p
+5914.44
+p*1000
+5.91444e+06
+(((2*       2)^2))
+16
+    222.029304*100/sin(100)
+-43847.5
+(((((1+2)+3)+4)+5)+6)
+21
+4.5 - e ^ log(4.5)
+0.00069
+sin(2.4)
+0.675463
+let a = 100
+a
+100
+let a = 10/0
+a
+100
+sin(7*10/0)
+Division-By-Zero
+let a = pip/100
+a
+100
+p
+5914.44
+let p = p/4
+p
+1478.61
+let p = woier/1000
+p
+1478.61
+let p = p/0
+p
+1478.61
